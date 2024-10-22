@@ -49,32 +49,25 @@ And the POST with an example of the request’s body used on the endpoint:
 ```
 
 ## Notes
-
-Keep in mind that this is a prototype, we don’t expect from you to get the best possible solution but the best you could
-do **in a few hours**, so your criteria is important. **The solution should work for every day of the week**.
-
-Although it’s just a prototype, we’d like to see some structure on your code. Treat it more as a large-scale production
-application — show your best skills, so we can know you better.
-
-We’ll look at how you use the framework/libraries, architecture, text coverage, readability, maintainability,
-performance, adherence to best coding practices. If you skip some of those, please provide comments, so we know what's
-your approach.
-
-Animations on going forward, backward or on see more slots are not mandatory.
-
 In order to make it easier for you, we’ll provide a boilerplate you can start the project with. Feel free to use any
 library that it could fit to your solution. Also, boilerplate could be outdated, don't hesitate to update it or totally
 remove it.
 
-## Our expectations
-
-Use the framework you feel comfortable with.
-
-#### To start from boilerplate you can execute:
+To start from boilerplate you can execute:
 
 ```
 yarn install && yarn serve
 ```
+
+## Our expectations
+* Keep in mind that this is a prototype, we don’t expect from you to get the best possible solution but the best you could
+do **in a few hours**, so your criteria is important. **The solution should work for every day of the week**.
+* Although it’s just a prototype, we’d like to see some structure on your code. Treat it more as a large-scale production
+application — show your best skills, so we can know you better.
+* We’ll look at how you use the framework/libraries, architecture, text coverage, readability, maintainability,
+performance, adherence to best coding practices. If you skip some of those, please provide comments, so we know what's
+your approach.
+* Animations on going forward, backward or on see more slots are not mandatory.
 
 ## Preview
 

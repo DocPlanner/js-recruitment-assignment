@@ -64,7 +64,7 @@ yarn install && yarn serve
 do **in a few hours**, so your criteria is important. **The solution should work for every day of the week**.
 * Although it’s just a prototype, we’d like to see some structure on your code. Treat it more as a large-scale production
 application — show your best skills, so we can know you better.
-* We’ll look at how you use the framework/libraries, architecture, text coverage, readability, maintainability,
+* We’ll look at how you use the framework/libraries, architecture, test coverage, readability, maintainability,
 performance, adherence to best coding practices. If you skip some of those, please provide comments, so we know what's
 your approach.
 * Animations on going forward, backward or on see more slots are not mandatory.

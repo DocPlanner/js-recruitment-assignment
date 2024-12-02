@@ -56,8 +56,16 @@ remove it.
 To start from boilerplate you can execute:
 
 ```
-yarn install && yarn serve
+yarn install && yarn serve 
 ```
+On Linux or Mac Os
+
+Or alternatively 
+
+```
+yarn install ; yarn serve
+```
+If you are using Windows
 
 ## Our expectations
 * Keep in mind that this is a prototype, we don’t expect from you to get the best possible solution but the best you could
